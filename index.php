@@ -1,7 +1,7 @@
 <?php
     // UNCOMMENT THE CODE BELOW (LN 4-19) IF YOU ARE USING XAMPP
-    // (e.g. full path (save the project on the htdocs) -> D:\xampp\htdocs\dim-tugas-kelompok-4)
-    $loc = "/dim-tugas-kelompok-4";
+    // (e.g. full path (save the project on the htdocs) -> D:\xampp\htdocs\dim-tk4-kelompok-2)
+    $loc = "/dim-tk4-kelompok-2";
 
     $request = $_SERVER['REQUEST_URI'];
 
